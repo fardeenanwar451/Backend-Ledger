@@ -28,8 +28,3 @@
 - Detects file changes
 - Saves time
 
-8cDMMQ4uQmF4xsV9
-
-mongodb+srv://fardeenanwar45_db_user:QpDmQxDIqzj8iYJh@cluster0.mh94mru.mongodb.net/
-
-mongodb+srv://fardeenanwar45_db_user:8cDMMQ4uQmF4xsV9@cluster0.miksc1o.mongodb.net/
